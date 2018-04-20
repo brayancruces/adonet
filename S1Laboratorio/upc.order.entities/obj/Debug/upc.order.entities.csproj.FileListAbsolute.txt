@@ -1,0 +1,10 @@
+E:\progra\AppWeb\S1Laboratorio\upc.order.entities\bin\Debug\upc.order.entities.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.entities\bin\Debug\upc.order.entities.pdb
+E:\progra\AppWeb\S1Laboratorio\upc.order.entities\obj\Debug\upc.order.entities.csprojResolveAssemblyReference.cache
+E:\progra\AppWeb\S1Laboratorio\upc.order.entities\obj\Debug\upc.order.entities.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.entities\obj\Debug\upc.order.entities.pdb
+C:\Users\Desarrollo RM\Documents\WORKSPACES\UPC\8vo ciclo\APLICACIONES WEB\PC1\resources\Semana2 App Web\Semana2 App Web\S1Laboratorio\upc.order.entities\bin\Debug\upc.order.entities.dll
+C:\Users\Desarrollo RM\Documents\WORKSPACES\UPC\8vo ciclo\APLICACIONES WEB\PC1\resources\Semana2 App Web\Semana2 App Web\S1Laboratorio\upc.order.entities\bin\Debug\upc.order.entities.pdb
+C:\Users\Desarrollo RM\Documents\WORKSPACES\UPC\8vo ciclo\APLICACIONES WEB\PC1\resources\Semana2 App Web\Semana2 App Web\S1Laboratorio\upc.order.entities\obj\Debug\upc.order.entities.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo RM\Documents\WORKSPACES\UPC\8vo ciclo\APLICACIONES WEB\PC1\resources\Semana2 App Web\Semana2 App Web\S1Laboratorio\upc.order.entities\obj\Debug\upc.order.entities.dll
+C:\Users\Desarrollo RM\Documents\WORKSPACES\UPC\8vo ciclo\APLICACIONES WEB\PC1\resources\Semana2 App Web\Semana2 App Web\S1Laboratorio\upc.order.entities\obj\Debug\upc.order.entities.pdb

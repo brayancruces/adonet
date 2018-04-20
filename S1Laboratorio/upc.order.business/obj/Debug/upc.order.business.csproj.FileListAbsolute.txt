@@ -1,0 +1,16 @@
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\bin\Debug\upc.order.business.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\bin\Debug\upc.order.business.pdb
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\bin\Debug\upc.order.entities.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\bin\Debug\upc.order.entities.pdb
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\obj\Debug\upc.order.business.csprojResolveAssemblyReference.cache
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\obj\Debug\upc.order.business.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.business\obj\Debug\upc.order.business.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\bin\Debug\upc.order.business.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\bin\Debug\upc.order.business.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\bin\Debug\upc.order.entities.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\bin\Debug\upc.order.repository.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\bin\Debug\upc.order.entities.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\bin\Debug\upc.order.repository.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\obj\Debug\upc.order.business.csprojResolveAssemblyReference.cache
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\obj\Debug\upc.order.business.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.business\obj\Debug\upc.order.business.pdb

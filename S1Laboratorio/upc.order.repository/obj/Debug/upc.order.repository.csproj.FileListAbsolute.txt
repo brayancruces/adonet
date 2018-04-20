@@ -1,0 +1,7 @@
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\bin\Debug\upc.order.repository.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\bin\Debug\upc.order.repository.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\bin\Debug\upc.order.entities.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\bin\Debug\upc.order.entities.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\obj\Debug\upc.order.repository.csprojResolveAssemblyReference.cache
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\obj\Debug\upc.order.repository.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.repository\obj\Debug\upc.order.repository.pdb

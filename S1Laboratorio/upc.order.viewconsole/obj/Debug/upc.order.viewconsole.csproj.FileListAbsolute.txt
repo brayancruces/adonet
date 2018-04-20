@@ -1,0 +1,10 @@
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.viewconsole.exe.config
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.viewconsole.exe
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.viewconsole.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.business.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.entities.dll
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.business.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\bin\Debug\upc.order.entities.pdb
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\obj\Debug\upc.order.viewconsole.csprojResolveAssemblyReference.cache
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\obj\Debug\upc.order.viewconsole.exe
+E:\S1Laboratorio\S1Laboratorio\upc.order.viewconsole\obj\Debug\upc.order.viewconsole.pdb

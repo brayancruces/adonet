@@ -1,0 +1,29 @@
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.exe.config
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.csprojResolveAssemblyReference.cache
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.Form1.resources
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.Properties.Resources.resources
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.csproj.GenerateResource.Cache
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.exe
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.pdb
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.business.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.entities.dll
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.business.pdb
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.entities.pdb
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.exe
+E:\progra\AppWeb\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.exe
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.exe
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.business.dll
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.entities.dll
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.business.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.entities.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.Form1.resources
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.Properties.Resources.resources
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.csproj.GenerateResource.Cache
+E:\S1Laboratorio\S1Laboratorio\upc.order.presentation\bin\Debug\upc.order.presentation.exe.config
+E:\S1Laboratorio\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.exe
+E:\S1Laboratorio\S1Laboratorio\upc.order.presentation\obj\Debug\upc.order.presentation.pdb
